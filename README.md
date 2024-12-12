@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Node js, React js, MySql and Mongoodb, AWS and DevOps**
+- 💬 Ask me about **Node js, React js, PostgreSQL and Mongoodb, AWS and DevOps**
 
 - 📫 How to reach me **imranf620@gmail.com**
 
