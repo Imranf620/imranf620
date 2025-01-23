@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imran Farooq</h1>
-<h3 align="center">A passionate Full Stack Engineer</h3>
+<h3 align="center">An experienced Full Stack Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranf620&label=Profile%20views&color=0e75b6&style=flat" alt="imranf620" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Node js, React js, PostgreSQL and Mongoodb, AWS and DevOps**
+- 💬 Ask me about **Node js, React js React Native, PostgreSQL and Mongoodb, AWS and DevOps**
 
 - 📫 How to reach me **imranf620@gmail.com**
 
