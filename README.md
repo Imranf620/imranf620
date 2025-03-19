@@ -1,3 +1,105 @@
-<h1 align="center">Hi 👋, I'm Imran Farooq</h1>
-<h3 align="center">An experienced Software Engineer</h3>
+# 👋 Hi, I'm Imran Farooq
 
+## 🚀 Full Stack Engineer | React Native | AI/ML | Competitive Programmer
+
+---
+
+### 🌟 About Me  
+
+- 💻 Full Stack Developer specializing in **JavaScript**, **TypeScript**, **React.js**, **React Native**, **Next.js**, **Node.js**, **PostgreSQL**, **MongoDB**, **AWS**, and **NestJS**  
+- ⚡ Currently diving deep into **AI/ML**, **OpenCV**, **robotics**, and **AGI (Artificial General Intelligence)**  
+- 🧠 Future goal: Build **robotic systems**, **AI hardware projects**, and **automobile autopilots**  
+- 🔥 **Competitive Programming** in **C++** — Solved **350+** problems on **LeetCode**, mastering **DSA (Data Structures & Algorithms)** for high-performance coding  
+- 🚀 Passionate about **Microservices**, **Event-Driven Architecture**, and **Real-Time Systems**  
+
+---
+
+### 🛠️ Tech Stack  
+
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)  
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-430098?style=flat&logo=githubactions&logoColor=white)
+
+**Message Brokers & Architecture:**  
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)  
+![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=flat&logo=githubsponsors&logoColor=white)  
+⚡ **Event-Driven Architecture** — Scalable and resilient backend systems  
+
+---
+
+### 💡 Unique Strengths  
+
+**🚀 Node.js**  
+- **Non-blocking I/O** — Lightning-fast backend performance  
+- **Microservices-friendly** — Perfect for building decoupled, scalable services  
+- **Real-time capabilities** — WebSockets + Socket.IO for instant communication  
+
+**⚡ React**  
+- **Component-based architecture** — Clean and reusable UI logic  
+- **Virtual DOM** — Blazing fast UI updates  
+- **Hooks & State Management** — Flexible, powerful, and scalable frontend  
+
+**🔥 Next.js**  
+- **App Router (latest)** — Easier API routes, layouts, and parallel rendering  
+- **SSR/SSG/ISR** — SEO-friendly, optimized performance  
+- **Built-in image & performance optimization**  
+
+**📲 React Native**  
+- **Cross-platform power** — One codebase for iOS, Android, and web  
+- **Hot Reload** — Fast, developer-friendly iteration  
+- **Native performance** — Bridges for native module integration  
+
+**💡 NestJS**  
+- **Progressive Node.js Framework** — Highly extensible and maintainable  
+- **Built-in Dependency Injection** — Simplifies testability and scalability  
+- **Microservices-ready** — Perfect for building decoupled, highly scalable services  
+- **TypeScript-first** — Ensures strong typing and better developer experience  
+
+---
+
+### 📈 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imranfarooq&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imranfarooq&theme=radical" />
+</p>
+
+---
+
+### 💬 Let's Connect!  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/imranfarooq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/imranfarooq"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:imranfarooq@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://theeagles.io"><img src="https://img.shields.io/badge/Website-FF5733?style=flat&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+---
+
+⭐️ **"Success is for those who dare to challenge the status quo."**
