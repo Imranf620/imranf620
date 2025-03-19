@@ -85,10 +85,9 @@
 ### 📈 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imranfarooq&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imranfarooq&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imranf620&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imranf620&theme=radical" />
 </p>
-
 ---
 
 ### 💬 Let's Connect!  
