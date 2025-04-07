@@ -78,7 +78,7 @@
 - **Progressive Node.js Framework** — Highly extensible and maintainable  
 - **Built-in Dependency Injection** — Simplifies testability and scalability  
 - **Microservices-ready** — Perfect for building decoupled, highly scalable services  
-- **TypeScript-first** — Ensures strong typing and better developer experience  
+- **TypeScript-first** — Ensures strong typing and better developer experience.  
 
 ---
 
