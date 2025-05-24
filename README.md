@@ -61,6 +61,10 @@
 
 ## 🚀 Professional Highlights
 
+---
+
+## 🚀 Professional Highlights
+
 ### Key Projects
 
 **🤖 AI-Powered Knowledge Assistant**
@@ -69,17 +73,31 @@
 - Implemented semantic search with 60% improvement in query accuracy
 - **Impact:** Serving 10K+ daily queries with sub-second response times
 
-**📱 Enterprise Mobile Platform**
-- **Tech Stack:** React Native, TypeScript, NestJS, PostgreSQL, AWS
-- Cross-platform application with offline-first architecture
-- Real-time synchronization and comprehensive analytics dashboard
-- **Impact:** 50K+ active users, 4.8/5 app store rating
+**🔹 TryLeo | tryleo.ai**  
+*Historical document digitization platform transforming handwritten archives into searchable digital records.*  
+- Built an AI-powered platform to transcribe and structure historical handwritten texts  
+- Developed using **NestJS**, **Next.js**, **Supabase (PostgreSQL)**, **Redis**, and **Bull** for job queue management  
+- Used **OpenAI** to extract text from images, enhancing archival accessibility and search through intelligent OCR and NLP integration  
 
-**🏗️ Scalable Microservices System**
-- **Tech Stack:** NestJS, PostgreSQL, Apache Kafka, Docker, AWS
-- Event-driven architecture handling 1M+ requests/day
-- Implemented circuit breaker patterns and distributed tracing
-- **Impact:** 99.9% uptime with auto-scaling capabilities
+**🔹 FrontDeskPro | app.frontdeskpro.dev**  
+*AI-driven call automation platform to schedule appointments, capture leads, and update CRMs like ServiceTitan.*  
+- Developed an AI call agent using **NestJS**, **Next.js**, and **PostgreSQL**  
+- Integrated voice and language services including **ElevenLabs**, **AssemblyAI**, **Twilio**, **Deepgram**, **OpenAI**, and **Synthflow**  
+- Deployed on **AWS EC2**  
+
+**📱 ToothFairy Mobile App**  
+*Engaging mobile app focused on magical interactions around the Tooth Fairy tradition.*  
+- Built with **React Native**  
+- Designed for easy user engagement and delightful child experiences  
+
+**📸 CatchACharacter Mobile App**  
+*Fun app allowing users to add stickers of Santa Claus, Tooth Fairy, Easter Bunny, and other characters to photos.*  
+- Developed with **React Native** and optimized for smooth mobile performance  
+- Features multi-ethnic character representations and in-app purchases for expanded sticker packs  
+- **Trusted by over 100,000 families worldwide** to create magical holiday moments  
+---
+
+
 
 ### Technical Achievements
 - ✅ **350+ LeetCode problems** solved with optimal time/space complexity
