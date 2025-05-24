@@ -59,6 +59,12 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imranf620&theme=radical" />
 </p>
 
+### 🧑‍💻 Most Used Languages
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranf620&layout=compact&theme=radical&langs_count=8" />
+</p>
+
 ---
 
 ### 💬 Let's Connect
