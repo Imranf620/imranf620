@@ -1,83 +1,246 @@
-# 👋 Hi, I'm Imran Farooq
+# 👋 Hi there, I'm **Imran Farooq**
 
-## 🚀 Full Stack Engineer | React Native | AI/ML | Competitive Programmer
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+React+Native+Expert;AI%2FML+Enthusiast+%7C+Competitive+Programmer;Building+the+Future+with+Code+%26+Intelligence)](https://git.io/typing-svg)
 
-### 🌟 About Me
-
-- 💻 Full Stack Developer with expertise in **JavaScript**, **TypeScript**, **React.js**, **React Native**, **Next.js**, **Node.js**, **PostgreSQL**, **MongoDB**, **AWS**, and **NestJS**  
-- 🤖 Currently exploring **AI/ML**, **OpenCV**, **Robotics**, and **AGI (Artificial General Intelligence)**  
-- 🧠 Aspiring to build **robotic systems**, **AI hardware**, and **autonomous driving systems**  
-- 🏆 Competitive Programmer in **C++**, with **350+** problems solved on **LeetCode**, focused on mastering **Data Structures & Algorithms**  
-- ⚙️ Enthusiast of **Microservices**, **Event-Driven Architecture**, and **Real-Time Systems**  
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🎯 **About Me**
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+```typescript
+const imran = {
+    role: "Full Stack Engineer",
+    passions: ["AI/ML", "Robotics", "Competitive Programming"],
+    currentFocus: "Building AGI-powered applications",
+    lifeGoal: "Creating autonomous systems that change the world",
+    funFact: "350+ LeetCode problems solved and counting! 🚀"
+};
+```
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-430098?style=flat&logo=githubactions&logoColor=white)
-
-**Architecture & Messaging**  
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=flat&logo=githubsponsors&logoColor=white)  
-⚡ **Event-Driven Architecture** — for scalable, resilient backend systems  
+🔭 **Currently Working On:** AI-powered web applications using LangChain & RAG models  
+🌱 **Learning:** Advanced Computer Vision, Robotics, and AGI development  
+⚡ **Goal:** Contributing to autonomous driving systems and AI hardware  
+🎲 **Fun Fact:** I solve algorithmic puzzles for breakfast and build robots for dinner!
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ **Tech Arsenal**
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imranf620&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imranf620&theme=radical" />
-</p>
+<details>
+<summary>💻 <strong>Frontend Development</strong></summary>
 
-### 🧑‍💻 Most Used Languages
+```
+React.js ████████████████████████████████ 95%
+Next.js  ████████████████████████████████ 90%
+React Native ████████████████████████████ 90%
+TypeScript ██████████████████████████████ 85%
+Tailwind CSS ████████████████████████████ 80%
+```
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranf620&layout=compact&theme=radical&langs_count=8" />
-</p>
+</details>
+
+<details>
+<summary>⚙️ <strong>Backend Engineering</strong></summary>
+
+```
+Node.js     ████████████████████████████████ 95%
+NestJS      ████████████████████████████████ 85%
+Express.js  ████████████████████████████████ 90%
+GraphQL     ████████████████████████████████ 75%
+Microservices ██████████████████████████████ 80%
+```
+
+</details>
+
+<details>
+<summary>🗄️ <strong>Database & Cloud</strong></summary>
+
+```
+PostgreSQL ████████████████████████████████ 90%
+MongoDB    ████████████████████████████████ 85%
+Redis      ████████████████████████████████ 70%
+AWS        ████████████████████████████████ 80%
+Docker     ████████████████████████████████ 75%
+```
+
+</details>
+
+<details>
+<summary>🤖 <strong>AI/ML & Advanced Tech</strong></summary>
+
+```
+LangChain   ████████████████████████████████ 75%
+OpenCV      ████████████████████████████████ 60%
+RAG Models  ████████████████████████████████ 70%
+Python      ████████████████████████████████ 80%
+C++         ████████████████████████████████ 85%
+```
+
+</details>
 
 ---
 
-### 💬 Let's Connect
+## 🚀 **Featured Projects**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/imranfarooqqaisrani">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:imranf620@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI-Powered Chat Application
+**Tech:** React, Node.js, LangChain, OpenAI  
+A sophisticated chatbot with RAG implementation for contextual conversations.
+
+**Features:**
+- 📚 Knowledge base integration
+- 🧠 Memory-based conversations  
+- ⚡ Real-time responses
+
+</td>
+<td width="50%">
+
+### 📱 Cross-Platform Mobile App
+**Tech:** React Native, TypeScript, Firebase  
+A feature-rich mobile application with offline capabilities.
+
+**Features:**
+- 🔄 Offline-first architecture
+- 📊 Real-time analytics
+- 🔐 Advanced authentication
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏗️ Microservices Architecture
+**Tech:** NestJS, PostgreSQL, Kafka, Docker  
+Scalable backend system handling millions of requests.
+
+**Features:**
+- ⚡ Event-driven design
+- 📈 Auto-scaling capabilities
+- 🛡️ Circuit breaker patterns
+
+</td>
+<td width="50%">
+
+### 🧮 Algorithm Visualizer
+**Tech:** React, D3.js, C++  
+Interactive platform for learning data structures.
+
+**Features:**
+- 🎨 Visual algorithm execution
+- 📊 Performance comparisons
+- 🎯 Educational content
+
+</td>
+</tr>
+</table>
 
 ---
 
-⭐️ *"Success is for those who dare to challenge the status quo."*
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imranf620&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranf620&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranf620&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+### 🏆 **GitHub Trophies**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imranf620&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🎯 **Competitive Programming**
+
+<div align="center">
+
+| Platform | Problems Solved | Rating | Badge |
+|----------|----------------|--------|-------|
+| **LeetCode** | 350+ | 1650+ | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black) |
+| **CodeChef** | 200+ | 4⭐ | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white) |
+| **Codeforces** | 150+ | Expert | ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white) |
+
+</div>
+
+**Favorite Topics:** Dynamic Programming, Graph Algorithms, Tree Traversals, Greedy Algorithms
+
+---
+
+## 🌟 **Current Focus Areas**
+
+```mermaid
+graph TD
+    A[🤖 AI/ML Development] --> B[LangChain & RAG Models]
+    A --> C[OpenCV & Computer Vision]
+    A --> D[Robotics & Hardware]
+    
+    E[🚀 Full Stack Engineering] --> F[Microservices Architecture]
+    E --> G[Real-time Systems]
+    E --> H[Cloud-Native Solutions]
+    
+    I[🧠 Competitive Programming] --> J[Advanced Algorithms]
+    I --> K[System Design]
+    I --> L[Problem Solving]
+```
+
+---
+
+## 📈 **Learning Journey**
+
+- 🎓 **Currently Studying:** Advanced Machine Learning, Autonomous Systems
+- 📚 **Reading:** "Artificial Intelligence: A Modern Approach" by Stuart Russell
+- 🔬 **Experimenting:** Building AI agents with multi-modal capabilities
+- 🎯 **Next Goal:** Contributing to open-source robotics projects
+
+---
+
+## 💼 **Professional Highlights**
+
+✨ **5+ years** of full-stack development experience  
+✨ **50+ projects** delivered across web and mobile platforms  
+✨ **350+ algorithmic problems** solved with optimal solutions  
+✨ **Microservices expert** with event-driven architecture experience  
+✨ **AI/ML practitioner** building production-ready applications  
+
+---
+
+## 🤝 **Let's Connect & Collaborate**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imranfarooqqaisrani)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranf620@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imranf620)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/imranf620)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 **Philosophy**
+
+*"The future belongs to those who combine human creativity with artificial intelligence."*
+
+**🌟 Always open to exciting opportunities and collaborations! 🌟**
+
+![Profile Views](https://komarev.com/ghpvc/?username=imranf620&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
