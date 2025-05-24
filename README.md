@@ -15,7 +15,7 @@
 
 **Frontend:** React • Next.js • React Native • TypeScript • Tailwind CSS  
 **Backend:** Node.js • NestJS • Express • GraphQL • Microservices  
-**Database:** PostgreSQL • MongoDB • Redis • Prisma  
+**Database:** PostgreSQL • MongoDB • Redis   
 **Cloud:** AWS (EC2, Lambda, S3, RDS, DynamoDB) • Docker • Nginx • CI/CD  
 **AI/ML:** OpenAI • LangChain • OpenCV • RAG   
 
@@ -32,7 +32,6 @@
 
 
 <div align="center">
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imranf620&color=blue&style=flat-square&label=Profile+Views)
 
