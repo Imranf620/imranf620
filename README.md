@@ -1,158 +1,74 @@
-# Imran Farooq - Full Stack Engineer
+# 👋 Hi, I'm Imran Farooq
 
-**AI/ML Engineer | React Native Expert | Competitive Programmer**
-
----
-
-## Professional Summary
-
-Experienced Full Stack Engineer with 5+ years of expertise in building scalable web and mobile applications. Strong background in AI/ML implementation, microservices architecture, and competitive programming with 350+ problems solved on LeetCode. Currently focused on developing production-ready AI-powered applications using modern frameworks and cloud technologies.
-
-**Core Competencies:**
-- Full-stack development with React.js, React Native, Node.js, and TypeScript
-- AI/ML integration using LangChain, RAG models, and OpenCV
-- Microservices architecture with event-driven systems
-- Database design and optimization (PostgreSQL, MongoDB)
-- Cloud infrastructure and DevOps (AWS, Docker)
+## 🚀 Full Stack Engineer | React Native | AI/ML | Competitive Programmer
 
 ---
 
-## Technical Expertise
+### 🌟 About Me  
 
-### Frontend Development
-- **Languages:** JavaScript, TypeScript
-- **Frameworks:** React.js, Next.js, React Native
-- **Styling:** Tailwind CSS, Styled Components
-- **State Management:** Redux, Zustand, Context API
-
-### Backend Engineering
-- **Runtime:** Node.js
-- **Frameworks:** Express.js, NestJS, Fastify
-- **APIs:** RESTful services, GraphQL, tRPC
-- **Architecture:** Microservices, Event-driven systems
-- **Message Queues:** Apache Kafka, Redis
-
-### Database & Cloud
-- **Databases:** PostgreSQL, MongoDB, Redis
-- **ORM/ODM:** Prisma, TypeORM, Mongoose
-- **Cloud Platforms:** AWS (EC2, S3, RDS, Lambda)
-- **DevOps:** Docker, Docker Compose, CI/CD pipelines
-
-### AI/ML & Advanced Technologies
-- **AI Frameworks:** LangChain, OpenAI API, Hugging Face
-- **Computer Vision:** OpenCV, Image processing
-- **Models:** RAG (Retrieval-Augmented Generation), Embeddings
-- **Programming:** Python, C++ (for algorithms and AI)
+- 💻 Full Stack Developer specializing in **JavaScript**, **TypeScript**, **React.js**, **React Native**, **Next.js**, **Node.js**, **PostgreSQL**, **MongoDB**, **AWS**, and **NestJS**  
+- ⚡ Currently diving deep into **AI/ML**, **OpenCV**, **robotics**, and **AGI (Artificial General Intelligence)**  
+- 🧠 Future goal: Build **robotic systems**, **AI hardware projects**, and **automobile autopilots**  
+- 🔥 **Competitive Programming** in **C++** — Solved **350+** problems on **LeetCode**, mastering **DSA (Data Structures & Algorithms)** for high-performance coding  
+- 🚀 Passionate about **Microservices**, **Event-Driven Architecture**, and **Real-Time Systems**  
 
 ---
 
-## Key Projects
+### 🛠️ Tech Stack  
 
-### AI-Powered Knowledge Assistant
-**Technologies:** React, Node.js, LangChain, OpenAI, PostgreSQL, Redis
-- Built an intelligent chatbot with RAG implementation for contextual document querying
-- Implemented vector embeddings for semantic search across large document collections
-- Integrated memory management for conversation context retention
-- Deployed on AWS with auto-scaling capabilities
-- **Impact:** Reduced query response time by 60% compared to traditional search
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### Enterprise Microservices Platform
-**Technologies:** NestJS, PostgreSQL, Apache Kafka, Docker, AWS
-- Designed and implemented event-driven microservices architecture
-- Built resilient systems with circuit breaker patterns and retry mechanisms
-- Implemented comprehensive monitoring and logging with distributed tracing
-- Created automated deployment pipelines with zero-downtime deployments
-- **Impact:** Handles 1M+ requests/day with 99.9% uptime
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
-### Cross-Platform Mobile Application
-**Technologies:** React Native, TypeScript, Firebase, Redux
-- Developed feature-rich mobile app with offline-first architecture
-- Implemented real-time synchronization with conflict resolution
-- Built comprehensive authentication and authorization system
-- Optimized performance for smooth 60fps user experience
-- **Impact:** 50K+ active users with 4.8/5 app store rating
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
-### Algorithmic Trading System
-**Technologies:** Python, C++, PostgreSQL, Apache Kafka
-- Built high-frequency trading system with microsecond latency requirements
-- Implemented complex algorithms for market data analysis
-- Created real-time risk management and portfolio optimization
-- Developed comprehensive backtesting framework
-- **Impact:** Achieved 15% improvement in trading performance
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)  
 
----
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-430098?style=flat&logo=githubactions&logoColor=white)
 
-## Competitive Programming
-
-**Problem Solving Statistics:**
-- **LeetCode:** 350+ problems solved | Rating: 1650+
-- **CodeChef:** 200+ problems solved | 4-star rating
-- **Codeforces:** 150+ problems solved | Expert level
-
-**Algorithm Specializations:**
-- Dynamic Programming and Optimization
-- Graph Algorithms and Network Flow
-- Tree Data Structures and Traversals
-- String Processing and Pattern Matching
-- Mathematical Algorithms and Number Theory
+**Message Brokers & Architecture:**  
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)  
+![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=flat&logo=githubsponsors&logoColor=white)  
+⚡ **Event-Driven Architecture** — Scalable and resilient backend systems  
 
 ---
 
-## Professional Experience Highlights
+### 📈 GitHub Stats  
 
-**Technical Leadership:**
-- Led development teams of 3-5 engineers on multiple projects
-- Mentored junior developers on best practices and code architecture
-- Conducted technical interviews and code reviews
-- Designed system architecture for scalable applications
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imranf620&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imranf620&theme=radical" />
+</p>
+---
 
-**Performance Optimization:**
-- Optimized database queries resulting in 70% performance improvement
-- Implemented caching strategies reducing API response times by 50%
-- Built efficient algorithms reducing computational complexity from O(n²) to O(n log n)
-- Architected CDN strategies improving global content delivery by 40%
+### 💬 Let's Connect!  
 
-**Production Experience:**
-- Deployed and maintained applications serving millions of users
-- Implemented monitoring and alerting systems for proactive issue detection
-- Managed database migrations and schema changes in production
-- Executed zero-downtime deployments and disaster recovery procedures
+<p align="center">
+  <a href="https://www.linkedin.com/in/imranfarooqqaisrani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:imranf620@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## Current Focus & Research
+⭐️ **"Success is for those who dare to challenge the status quo."**
 
-**AI/ML Development:**
-- Exploring advanced RAG techniques for improved context understanding
-- Implementing multi-modal AI systems combining text, image, and audio processing
-- Research on AGI applications in software development automation
-- Building custom AI agents for specific domain tasks
-
-**System Architecture:**
-- Event-driven microservices with advanced messaging patterns
-- Distributed systems design for high availability and scalability
-- Performance optimization techniques for real-time applications
-- Cloud-native development with serverless architectures
-
----
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranf620&show_icons=true&theme=default&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranf620&layout=compact&langs_count=8)
-
----
-
-## Professional Network
-
-**LinkedIn:** [imranfarooqqaisrani](https://www.linkedin.com/in/imranfarooqqaisrani)  
-**Email:** imranf620@gmail.com  
-**GitHub:** [imranf620](https://github.com/imranf620)  
-**LeetCode:** [imranf620](https://leetcode.com/imranf620)
-
----
-
-**Available for:** Full-time opportunities, consulting projects, and technical collaborations in AI/ML and full-stack development.
-
-*Passionate about building intelligent systems that solve real-world problems through the intersection of software engineering and artificial intelligence.*
+Fix this
