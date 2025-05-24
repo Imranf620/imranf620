@@ -7,7 +7,7 @@
 
 ## 🎯 About Me
 
-**Senior Full Stack Engineer** specializing in **React**, **Node.js**, **AWS**, and **AI/ML integration**. 2+ years building scalable applications.
+**Full Stack Engineer** specializing in **React**, **Node.js**, **AWS**, and **AI/ML integration**. 2+ years building scalable applications.
 
 ---
 
@@ -33,6 +33,7 @@
 
 <div align="center">
 ---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=imranf620&color=blue&style=flat-square&label=Profile+Views)
 
 </div>
